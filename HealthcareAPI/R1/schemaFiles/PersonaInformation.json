@@ -1,0 +1,1 @@
+{"type":"object","properties":{"age":{"type":"array","items":{"type":"integer","format":"int32"}},"zip code":{"type":"array","items":{"type":"string","format":""}}},"required":["age","zip code"]}
